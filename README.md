@@ -27,4 +27,5 @@ Make sure to replace Path/To with the actual path leading to Main.py.
 This project is an independent software and has not been authorized, sponsored, or otherwise approved by Apple Inc.
 ## 4- TODO/Ideas
 Actual Application file
+
 Improved UI
