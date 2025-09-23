@@ -18,6 +18,7 @@ Now, You can run the program
 python3 /Path/To/Main.py
 ```
 Make sure to replace Path/To with the actual path leading to Main.py.
+(Now you can run the program directly from the .app file.)
 ## 3- Credits 
 ### [LibiMobileDvice](https://github.com/libimobiledevice/libimobiledevice)
 ### [Wayne Bonnici](https://github.com/waynebonc) The maker of [iDevice PanicLog Analyzer](https://github.com/waynebonc/iDeviceLogAnalyzer-public)
