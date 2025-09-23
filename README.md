@@ -1,4 +1,4 @@
-# PanicView, An iDevice Panic log analyzer alternative for MacOS using libmobiledevice 
+# PanicView, An iDevice Panic log analyzer alternative for MacOS using libimobiledevice 
 ## 1- System Requirements 
 Any Mac device using MacOS 11.0 Big Sur.
 You can see the supported devices for MacOS big sur [*Here.*](https://en.wikipedia.org/wiki/MacOS_Big_Sur)
@@ -19,7 +19,7 @@ python3 /Path/To/Main.py
 ```
 Make sure to replace Path/To with the actual path leading to Main.py.
 ## 3- Credits 
-### [LibMobileDvice](https://github.com/libimobiledevice/libimobiledevice)
+### [LibiMobileDvice](https://github.com/libimobiledevice/libimobiledevice)
 ### [Wayne Bonnici](https://github.com/waynebonc) The maker of [iDevice PanicLog Analyzer](https://github.com/waynebonc/iDeviceLogAnalyzer-public)
 ### Special Thanks to AmirHossein Zarvandi For making this project possible. 
 ### Apple, iPhone, iPad, iPod, iPod Touch, Apple TV, Apple Watch, Mac, iOS, iPadOS, tvOS, watchOS, and macOS are trademarks of Apple Inc.
